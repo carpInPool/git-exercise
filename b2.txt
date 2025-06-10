@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+admin change b2
+=======
+lyx_exercise_b2
+>>>>>>> 81a7bbe (修改b2并添加b2_new)
