@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 admin change a1
+=======
+lyx_exercise_a1
+>>>>>>> c898741 (修改a1)
